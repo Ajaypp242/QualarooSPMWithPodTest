@@ -72,6 +72,7 @@ to your `Cartfile`
 Step1: Select File -> Add Packages
 Step2: Search url https://github.com/qualaroo/ios-sdk
 Step3: Add Package
+Step4: Check Package added in Target -> General -> Framework, Libraries, and Embedded Content
 ```
 
 ## Usage
